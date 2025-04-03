@@ -1,7 +1,10 @@
-
 <p align="center">
-   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+   <img src="https://media3.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="400">
 </p>
+
+
+
+
 
 
 <h1 align="center">Hi 👋, I'm VIGNESHWAR</h1>
