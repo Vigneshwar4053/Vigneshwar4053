@@ -1,3 +1,9 @@
+
+<p align="center">
+   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm VIGNESHWAR</h1>
 <h3 align="center">I have passionate so many fields (AIML, Web development, Game designing and development, iot, OpenGL)</h3>
 
