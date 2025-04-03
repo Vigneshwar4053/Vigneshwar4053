@@ -35,4 +35,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vigneshwar4053&show_icons=true&locale=en&layout=compact" alt="vigneshwar4053" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshwar4053&" alt="vigneshwar4053" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vigneshwar4053&" alt="vigneshwar4053" /></p>
