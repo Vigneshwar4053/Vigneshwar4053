@@ -8,7 +8,9 @@
 
 
 <h1 align="center">Hi 👋, I'm VIGNESHWAR</h1>
-<h3 align="center">I have passionate so many fields (AIML, Web development, Game designing and development, iot, OpenGL)</h3>
+<h3 align="center">I am passionate about many fields, including AI/ML, web development, game design and development, IoT, and OpenGL.
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshwar4053&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshwar4053" /> </p>
 
